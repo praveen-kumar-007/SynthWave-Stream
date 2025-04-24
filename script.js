@@ -1,7 +1,7 @@
 // --- CONFIGURATION ---
 // !!! IMPORTANT: Replace with your actual YouTube Data API v3 Key !!!
 // !!! KEEP THIS SECRET IF DEPLOYING PUBLICLY (use a backend instead) !!!
-const API_KEY = 'AIzaSyDbnVusUBr1QtmbHLz6EkDSQaCvletNlVI';
+const API_KEY = 'YOUR YOUTUBE V3 API KEY';
 const MAX_RESULTS = 15; // Number of search results to fetch
 
 // --- DOM ELEMENTS ---
