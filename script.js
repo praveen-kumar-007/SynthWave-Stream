@@ -1,7 +1,7 @@
 // --- CONFIGURATION ---
 // !!! IMPORTANT: Replace with your actual YouTube Data API v3 Key !!!
 // !!! KEEP THIS SECRET IF DEPLOYING PUBLICLY (use a backend instead) !!!
-const API_KEY = 'YourAPI Key';
+const API_KEY = <Replace With your API>;
 const MAX_RESULTS = 15; // Number of search results to fetch
 
 // --- DOM ELEMENTS ---
@@ -167,3 +167,4 @@ function escapeHtml(unsafe) {
 // --- Initial Setup ---
 // Display initial placeholder text if needed (already in HTML, but could be done here too)
 // searchResultsContainer.innerHTML = '<p class="placeholder-text">Search for music to get started...</p>';
+
